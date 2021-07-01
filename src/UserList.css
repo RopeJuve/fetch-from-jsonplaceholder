@@ -1,0 +1,15 @@
+.Grid{
+    background-color: gray;
+}
+
+.Card{
+    background-color: rgb(177, 174, 174);
+    text-align: center;
+    border:#282c34 2px solid;
+    border-radius: 8px;
+    box-shadow: 6;
+    align-items: center;
+    color:#282c34;
+}
+
+
