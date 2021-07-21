@@ -18,7 +18,7 @@ function App() {
     setUsers(userData);
 
   }
-  useEffect(function(){
+  useEffect(() => {
     fechData();
   })
   return (
