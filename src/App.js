@@ -24,7 +24,7 @@ const App = () => {
   });
   return (
     <div className="App">
-      <header className="App-header">Mojta prva API</header>
+      <header className="App-header">Fetch from Jsonplaceholder</header>
       <UserList userData={users} />
     </div>
   );
